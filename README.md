@@ -23,12 +23,9 @@ A Rest API Serving a [Tensorflow 2 Alpha](https://www.tensorflow.org/alpha) kera
 
 4- Send a POST query to the ```http://127.0.0.1/api/recognize_image``` with a body consisting of a JSON content:
 
-  ```Url : 127.0.0.1/api/recognize_image```
-
-  Body : 
    ```json
    {
-      "img_url" : "<IMG_TO_CLASSIFY_URL>" (http://www.stickpng.com/assets/thumbs/580b57fbd9996e24bc43bef3.png)
+      "img_url" : "<IMG_TO_CLASSIFY_URL>" // (http://www.stickpng.com/assets/thumbs/580b57fbd9996e24bc43bef3.png)
     }
    ```
 
