@@ -1,4 +1,4 @@
-A Rest API Serving a [Tensorflow 2 Alpha](https://www.tensorflow.org/alpha) keras deep learning model to classify image.
+A Rest API Serving a [Tensorflow 2 Alpha](https://www.tensorflow.org/alpha) keras deep learning model to classify image. Defined classes are 'T-shirt/top', 'Trouser', 'Pullover', 'Dress', 'Coat', 'Sandal', 'Shirt', 'Sneaker', 'Bag', 'Ankle boot'.
 
 ## Training set
 
@@ -25,7 +25,7 @@ A Rest API Serving a [Tensorflow 2 Alpha](https://www.tensorflow.org/alpha) kera
 
    ```json
    {
-      "img_url" : "<IMG_TO_CLASSIFY_URL>" // (http://www.stickpng.com/assets/thumbs/580b57fbd9996e24bc43bef3.png)
+      "img_url" : "<IMG_TO_CLASSIFY_URL> (http://www.stickpng.com/assets/thumbs/580b57fbd9996e24bc43bef3.png)"
     }
    ```
 
