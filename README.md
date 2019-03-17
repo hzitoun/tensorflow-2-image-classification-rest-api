@@ -1,8 +1,8 @@
-A Rest API Serving a Tensorflow 2 keras deep learning model to classify image.
+A Rest API Serving a [Tensorflow 2 Alpha](https://www.tensorflow.org/alpha) keras deep learning model to classify image.
 
 ## Training set
 
-keras.datasets.fashion_mnist
+[keras.datasets.fashion_mnist](https://www.tensorflow.org/api_docs/python/tf/keras/datasets/fashion_mnist)
 
 ## Libs
 
@@ -13,7 +13,7 @@ keras.datasets.fashion_mnist
 - Flask 
 - Numpy
 
-# How to run?
+## How to run?
 
 1- Install the required libs (with conda install or pip install).
 
