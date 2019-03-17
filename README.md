@@ -1,4 +1,6 @@
-A Rest API Serving a [Tensorflow 2 Alpha](https://www.tensorflow.org/alpha) keras deep learning model to classify image. Defined classes are 'T-shirt/top', 'Trouser', 'Pullover', 'Dress', 'Coat', 'Sandal', 'Shirt', 'Sneaker', 'Bag', 'Ankle boot'.
+Since [Tensorflow 2 Alpha](https://www.tensorflow.org/alpha) was annonced recently, I wanted to try it out by making a simple image classification model trained on fashion mnist data set using a 3 layers neural networks. The model is served as a Rest API.
+
+Defined classes are 'T-shirt/top', 'Trouser', 'Pullover', 'Dress', 'Coat', 'Sandal', 'Shirt', 'Sneaker', 'Bag', 'Ankle boot'.
 
 ## Training set
 
