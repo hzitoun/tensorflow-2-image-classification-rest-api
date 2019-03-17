@@ -1,1 +1,1 @@
-A REST API Serving a deep learning model to classify image
+A REST API Serving a Tensorflow 2 keras deep learning model to classify image.
