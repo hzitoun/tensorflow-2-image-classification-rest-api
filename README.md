@@ -31,7 +31,7 @@ Defined classes are 'T-shirt/top', 'Trouser', 'Pullover', 'Dress', 'Coat', 'Sand
     }
    ```
 
-  And the Server should do the prediction and then response with : 
+  And the Server should do the prediction and then respond with : 
   ```json
   {
     "data": {
