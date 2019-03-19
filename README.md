@@ -35,8 +35,8 @@ Defined classes are 'T-shirt/top', 'Trouser', 'Pullover', 'Dress', 'Coat', 'Sand
   ```json
   {
     "data": {
-    "confidence": "67%",
-    "prediction": "Pullover"
+    "confidence": "89%",
+    "prediction": "Dress"
   },
     "isError": false,
     "message": "Success",
